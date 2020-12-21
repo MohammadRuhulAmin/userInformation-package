@@ -1,0 +1,14 @@
+{
+    "name": "teambravo/userinformation",
+    "description": "this package holds all 4 types of users information and user's necessary data to identify them properly",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "TeamBravo\\userInformation\\":"src/"                
+        }
+    }
+
+}
